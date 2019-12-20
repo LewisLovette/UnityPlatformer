@@ -1,4 +1,4 @@
-# unityplatformer
+# UnityPlatformer
 Added as of 18/12/19 with basic environment, platoforming, paralaxing ect.
 
 Started from Brackey tutorial: [Click Here](https://www.youtube.com/watch?v=dwcT-Dch0bA&list=FLVR7aqDV6xpoTEpKjSKpRkg&index=4&t=980s)      
